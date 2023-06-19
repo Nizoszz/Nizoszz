@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alfa+Slab+One&weight=700&size=32&pause=1000&color=000000&background=07022400&width=435&separator=%3C&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Andrew.%3CVulgo%3A+Nizos!%3CSou+de+S%C3%A3o+Bernardo+do+Campo;%3CS%C3%A3o+Paulo.%3CSeja+bem-vindo.)](https://git.io/typing-svg)
+
 <img src="https://raw.githubusercontent.com/Nizoszz/Nizoszz/output/snake.svg" alt="Snake animation" />
 
 ###
