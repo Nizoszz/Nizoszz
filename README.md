@@ -1,5 +1,3 @@
- 
-<img src="https://raw.githubusercontent.com/Nizoszz/Nizoszz/output/snake.svg" alt="Snake animation" />
 
 ###
 
