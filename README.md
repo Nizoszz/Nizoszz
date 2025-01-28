@@ -52,7 +52,7 @@
 
 <h2 align="left">Contato:</h2>
 <div align="left">
-  <a href="andrewairamdasilva@gmail.com" target="_blank">
+  <a href="mailto:andrewairamdasilva@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/andrewairamdasilva/" target="_blank">
