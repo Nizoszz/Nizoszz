@@ -1,15 +1,12 @@
 <h2 align="left">Bem-vindo(a) ao meu espaço, sou o Andrew da Silva 👋</h2>
 
 ###
-
-<br clear="both">
-
-<p align="left">Sou um desenvolvedor web otimista, sempre em busca de aprender novas tecnologias e entender como as coisas funcionam. Apaixonado por tecnologia da informação e desenvolvimento de software, com foco em design, arquitetura de software, otimização de performance e segurança.<br><br>Atualmente, estou me aprofundando em Cibersegurança e focado em tecnologias como Java, JavaScript/Node.js e TypeScript, sempre buscando melhorar a qualidade e eficiência do código.
-###Objetivo:
-Continuar evoluindo em boas práticas de arquitetura de software, focando em desenvolvimento seguro e criando soluções escaláveis e otimizadas. Meu objetivo é consolidar minha carreira com especialização em segurança e performance, contribuindo com soluções de alto impacto.</p>
+<p align="left">Sou um desenvolvedor web otimista, sempre em busca de aprender novas tecnologias e entender como as coisas funcionam. Apaixonado por tecnologia da informação e desenvolvimento de software, com foco em design, arquitetura de software, otimização de performance e segurança.<br><br>Atualmente, estou me aprofundando em Cibersegurança e focado em tecnologias como Java, JavaScript/Node.js e TypeScript, sempre buscando melhorar a qualidade e eficiência do código.</p>
+<h2 align="left">Objetivo:</h2>
+<p align="left"> Continuar evoluindo em boas práticas de arquitetura de software, focando em desenvolvimento seguro e criando soluções escaláveis e otimizadas. Meu objetivo é consolidar minha carreira com especialização em segurança e performance, contribuindo com soluções de alto impacto.</p>
 
 ###
-
+<h2 align="left">Tecnologias que utilizo:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -37,17 +34,23 @@ Continuar evoluindo em boas práticas de arquitetura de software, focando em des
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
 </div>
 
 ###
 
+<h2 align="left">Contato:</h2>
 <div align="left">
   <a href="andrewairamdasilva@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
