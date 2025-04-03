@@ -3,7 +3,7 @@
 ###
 <p align="left">Sou um desenvolvedor web otimista, sempre em busca de aprender novas tecnologias e entender como as coisas funcionam. Apaixonado por tecnologia da informação e desenvolvimento de software, com foco em design de código, arquitetura de software, otimização de performance e segurança.<br><br>Atualmente, estou me aprofundando em Cibersegurança e focado em tecnologias como Java, JavaScript/Node.js e TypeScript, sempre buscando melhorar a qualidade e eficiência do código.</p>
 <h2 align="left">Objetivo:</h2>
-<p align="left"> Continuar evoluindo em boas práticas de arquitetura de software, focando em desenvolvimento seguro e criando soluções escaláveis e otimizadas. Meu objetivo é consolidar minha carreira com especialização em segurança e performance, contribuindo com soluções de alto impacto.</p>
+<p align="left"> Continuar aprendendo e evoluindo em boas práticas de arquitetura de software, focando em desenvolvimento seguro e criando soluções escaláveis e otimizadas. Meu objetivo é consolidar minha carreira com especialização em segurança e performance, contribuindo com soluções de alto impacto.</p>
 
 ###
 <h2 align="left">Tecnologias que utilizo:</h2>
